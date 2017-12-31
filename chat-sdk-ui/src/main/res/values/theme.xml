@@ -5,7 +5,7 @@
         <!-- App Bar -->
         <item name="colorPrimary">@color/sdkPrimary</item>
         <item name="colorPrimaryDark">@color/sdkPrimaryDark</item>
-        <item name="colorAccent">@color/sdkAccent</item>
+        <item name="colorAccent">@android:color/darker_gray</item>
         <item name="colorControlNormal">@color/sdkTextColorPrimary</item>
         <item name="actionBarWidgetTheme">@style/Widget.SdkTheme.ActionBar</item>
         <item name="actionBarTheme">@style/ThemeOverlay.SdkTheme.ActionBar</item>

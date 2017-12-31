@@ -5,19 +5,19 @@
 
     <!-- Hints -->
     <string name="email_field">Email</string>
-    <string name="password_field">Password</string>
+    <string name="password_field">Passwort</string>
 
     <!-- Buttons -->
     <string name="button_login_text">Log in</string>
-    <string name="button_register_text">Register</string>
+    <string name="button_register_text">Registrieren</string>
 
     <!-- Alerts / Toasts -->
-    <string name="toast_no_email">Please enter your email</string>
-    <string name="toast_no_password">Please enter password</string>
-    <string name="toast_connection_failed">Failed to connect</string>
-    <string name="toast_password_incorrect">Username or password is incorrect</string>
-    <string name="toast_register_failed">Failed to register</string>
-    <string name="toast_connected">Connected</string>
-    <string name="toast_authenticated">Authenticated</string>
+    <string name="toast_no_email">Bitte gib deine Email ein</string>
+    <string name="toast_no_password">Bitte gib ein Passwort ein</string>
+    <string name="toast_connection_failed">Verbindung fehlgeschlagen</string>
+    <string name="toast_password_incorrect">Benutzername oder Passwort falsch</string>
+    <string name="toast_register_failed">Registrierung fehlgeschlagen</string>
+    <string name="toast_connected">Verbunden</string>
+    <string name="toast_authenticated">Eingeloggt</string>
 
 </resources>

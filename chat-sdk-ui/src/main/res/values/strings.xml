@@ -4,23 +4,23 @@
     <string name="app_name">ChatSDK</string>
 
 
-    <string name="register">Register</string>
+    <string name="register">Registrieren</string>
     <string name="login">Login</string>
-    <string name="anonymous_login">Anonymous Login</string>
-    <string name="loading">Loading&#8230;</string>
+    <string name="anonymous_login">Anonymer Login</string>
+    <string name="loading">Laden&#8230;</string>
     <string name="email">Email</string>
-    <string name="password">Password</string>
+    <string name="password">Passwort</string>
     <string name="logout">Logout</string>
-    <string name="search">Search</string>
-    <string name="add_contacts">Add Contacts</string>
-    <string name="add_users">Add Users</string>
-    <string name="start_chat">Start Chat</string>
-    <string name="contacts_upper_case">CONTACTS</string>
-    <string name="select_all">Select All</string>
-    <string name="send_location">Send this location</string>
-    <string name="search_upper_case">SEARCH</string>
-    <string name="send">Send</string>
-    <string name="pick_friends">Pick Friends</string>
+    <string name="search">Suchen</string>
+    <string name="add_contacts">Kontakt hinzufügen</string>
+    <string name="add_users">User hinzufügen</string>
+    <string name="start_chat">Chat starten</string>
+    <string name="contacts_upper_case">KONTAKTE</string>
+    <string name="select_all">Alles auswählen</string>
+    <string name="send_location">Diesen Ort Senden</string>
+    <string name="search_upper_case">SUCHE</string>
+    <string name="send">Senden</string>
+    <string name="pick_friends">Wähle Freunde</string>
 
     <!--ThreadDetails context-->
     <string name="thread_details_activity_title">Thread Details</string>
@@ -32,165 +32,165 @@
 
     <!-- Login Activity-->
     <string name="chat_sdk__version_label">Version:</string>
-    <string name="login_activity_no_mail_toast">Please enter your email</string>
-    <string name="login_activity_no_password_toast">Please enter password</string>
-    <string name="login_activity_facebook_connection_fail_toast">Failed to connect to Facebook</string>
-    <string name="login_activity_failed_to_login_toast">Failed to connect</string>
-    <string name="login_activity_failed_to_register_toast">Failed to register</string>
+    <string name="login_activity_no_mail_toast">Bitte gib deine Email ein</string>
+    <string name="login_activity_no_password_toast">Bitte gib ein Passwort ein</string>
+    <string name="login_activity_facebook_connection_fail_toast">Verbindung zu Facebook fehlgeschlagen</string>
+    <string name="login_activity_failed_to_login_toast">Verbindung fehlgeschlagen</string>
+    <string name="login_activity_failed_to_register_toast">Registrierung fehlgeschlagen</string>
 
     <!--BaseFragment/BaseActivity-->
-    <string name="create_thread_with_users_fail_toast">Failed to start chat</string>
-    <string name="delete_thread_fail_toast">Unable to delete thread</string>
-    <string name="delete_thread_success_toast">Thread is deleted</string>
+    <string name="create_thread_with_users_fail_toast">Chat konnte nicht gestartet werden</string>
+    <string name="delete_thread_fail_toast">Löschen nicht möglich</string>
+    <string name="delete_thread_success_toast">Raum ist gelöscht</string>
 
     <!--ChatActivity-->
-    <string name="chat_activity_no_more_messages_to_load_toast">There is no new messages to load&#8230;</string>
-    <string name="chat_activity_add_item_text">Add contact to chat</string>
-    <string name="chat_activity_show_users_item_text">Show thread users</string>
-    <string name="chat_activity_show_thread_details">Thread Details</string>
+    <string name="chat_activity_no_more_messages_to_load_toast">Keine weiteren Nachrichten&#8230;</string>
+    <string name="chat_activity_add_item_text">Kontakt zum Chat hinzufügen</string>
+    <string name="chat_activity_show_users_item_text">Zeige Raummitglieder</string>
+    <string name="chat_activity_show_thread_details">Raum Details</string>
 
     <!--ChatSDKAbstractContactsFragment-->
-    <string name="abstract_contact_fragment_user_added_to_thread_toast_success">User added to thread, Name:&#160;</string>
-    <string name="abstract_contact_fragment_user_added_to_thread_toast_fail">Can\'t add user to thread.</string>
-    <string name="abstract_contact_fragment_share_with_contact_toast_fail_unknown_type">Problem sharing contact, Unknown share type.</string>
+    <string name="abstract_contact_fragment_user_added_to_thread_toast_success">User zum Raum hinzugefügt, Name:&#160;</string>
+    <string name="abstract_contact_fragment_user_added_to_thread_toast_fail">User kann nicht hinzugefügt werden.</string>
+    <string name="abstract_contact_fragment_share_with_contact_toast_fail_unknown_type">Kontakt kann nicht geteilt werden</string>
 
     <!--ShareWithContactsActivity-->
     <string name="share_activity_error_getting_share_data">Error getting share data</string>
 
     <!--SelectContactActivity-->
-    <string name="pick_friends_activity_no_users_selected_toast">Please select at least one user</string>
-    <string name="pick_friends_activity_prog_dialog_add_to_convo_message">Adding users to thread&#8230;</string>
-    <string name="pick_friends_activity_prog_dialog_open_new_convo_message">Creating thread&#8230;</string>
-    <string name="pick_friends_activity_prog_group_name_dialog">Group Name</string>
+    <string name="pick_friends_activity_no_users_selected_toast">Bitte wähle mindestens einen User aus</string>
+    <string name="pick_friends_activity_prog_dialog_add_to_convo_message">Users werden dem Raum hinzugefügt&#8230;</string>
+    <string name="pick_friends_activity_prog_dialog_open_new_convo_message">Raum wird erstellt&#8230;</string>
+    <string name="pick_friends_activity_prog_group_name_dialog">Gruppen Name</string>
 
     <!--ExitHelper-->
-    <string name="exit_helper_double_tap_toast">click back again to exit</string>
+    <string name="exit_helper_double_tap_toast">Drücke erneut zum Verlassen</string>
     <!-- Exit Dialog-->
-    <string name="alert_exit">Are you sure you want to exit?</string>
-    <string name="exit">Exit</string>
-    <string name="stay">Stay</string>
-    <string name="create">Create</string>
-    <string name="cancel">Cancel</string>
+    <string name="alert_exit">Bist du Sicher?</string>
+    <string name="exit">Schließen</string>
+    <string name="stay">Bleiben</string>
+    <string name="create">Erstellen</string>
+    <string name="cancel">Abbrechen</string>
 
     <!--SearchActivity-->
-    <string name="search_activity_no_text_input_toast">Please enter some text for the search</string>
-    <string name="search_activity_no_user_found_toast">No match found</string>
-    <string name="search_activity_no_contact_selected_toast">No contacts were selected</string>
-    <string name="search_activity_user_added_as_contact_after_count_toast"> Users were added as contacts</string>
-    <string name="search_activity_prog_dialog_init_message">Fetching&#8230;</string>
-    <string name="search_activity_prog_dialog_before_count_message">Fetching&#8230; Found:&#160;</string>
-    <string name="search_activity_searching_message">Searching</string>
+    <string name="search_activity_no_text_input_toast">Bitte gib einen Text zur Suche ein</string>
+    <string name="search_activity_no_user_found_toast">Kein Ergebnis gefunden</string>
+    <string name="search_activity_no_contact_selected_toast">Keine Kontakte ausgewählt</string>
+    <string name="search_activity_user_added_as_contact_after_count_toast"> User wurden als Kontakt hinzugefügt</string>
+    <string name="search_activity_prog_dialog_init_message">Suchen&#8230;</string>
+    <string name="search_activity_prog_dialog_before_count_message">Suchen&#8230; Gefunden:&#160;</string>
+    <string name="search_activity_searching_message">Suchen</string>
 
     <!--PublicThreadFragment-->
-    <string name="public_thread_fragment_add_item_text">Add Public chat Room</string>
+    <string name="public_thread_fragment_add_item_text">Öffentlichen Raum hinzufügen</string>
 
     <!--Add public chat room dialog-->
-    <string name="add_public_chat_dialog_title">Add Chat Room</string>
-    <string name="add_public_chat_dialog_progress_message">Creating thread&#8230;</string>
-    <string name="add_public_chat_dialog_toast_success_before_thread_name">Public thread&#160;</string>
-    <string name="add_public_chat_dialog_toast_success_after_thread_name">&#160;is created.</string>
-    <string name="add_public_chat_dialog_toast_error_before_thread_name">Failed to create public thread&#160;</string>
+    <string name="add_public_chat_dialog_title">Chatraum hinzufügen</string>
+    <string name="add_public_chat_dialog_progress_message">Raum wird erstellt&#8230;</string>
+    <string name="add_public_chat_dialog_toast_success_before_thread_name">Öffentlicher Raum&#160;</string>
+    <string name="add_public_chat_dialog_toast_success_after_thread_name">&#160;wurde erstellt.</string>
+    <string name="add_public_chat_dialog_toast_error_before_thread_name">Erstellen des Raumes fehlgeschlagen&#160;</string>
 
     <!--Save Contact Dialog-->
-    <string name="alert_save_contact">Saving</string>
+    <string name="alert_save_contact">Speichern</string>
 
     <!--Delete Contact Dialog-->
-    <string name="alert_delete_contact">Are you sure you want to delete this contact?</string>
+    <string name="alert_delete_contact">Bist du sicher, dass du den Kontakt löschen möchtest?</string>
 
     <!--Delete CoreThread Dialog-->
-    <string name="alert_delete_thread">Are you sure you want to delete this thread?</string>
+    <string name="alert_delete_thread">Bist du sicher, dass du den Raum löschen möchtest?</string>
 
-    <string name="delete">Delete</string>
+    <string name="delete">Löschen</string>
 
     <!-- Login Dialog-->
-    <string name="authenticating">Authenticating&#8230;</string>
-    <string name="login_activity_auth_failed">Auth Failed</string>
-    <string name="connecting">Connecting&#8230;</string>
-    <string name="registering">Registering&#8230;</string>
+    <string name="authenticating">Authentifizieren&#8230;</string>
+    <string name="login_activity_auth_failed">Auth gescheitert</string>
+    <string name="connecting">Verbinden&#8230;</string>
+    <string name="registering">Registrieren&#8230;</string>
 
     <!--Acceptability-->
     <string name="acces_message_option_button">Message option button</string>
 
     <string name="chat_sdk__action_settings">action_setting</string>
     <string name="action_logout">Logout</string>
-    <string name="action_save">Save</string>
+    <string name="action_save">Speichern</string>
     <string name="action_chat">Chat</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_contact_developer">Contact Developer</string>
-    <string name="action_add_chat">Add Chat</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_contact_developer">Entwickler kontaktieren</string>
+    <string name="action_add_chat">Chat hinzufügen</string>
     <string name="done_show_again">Done show again</string>
-    <string name="double_back_press_exit">Use double back button pressed to exit</string>
+    <string name="double_back_press_exit">Drücke doppelt zum Verlassen</string>
     <string name="subscription">Presence Subscription</string>
 
     <!--Notification-->
-    <string name="not_message_title">Message</string>
-    <string name="not_message_ticker">You have a new message</string>
-    <string name="not_follower_title">New Follower</string>
-    <string name="not_follower_ticker">You got a new follower</string>
-    <string name="not_follower_content">is following you!</string>
+    <string name="not_message_title">Nachricht</string>
+    <string name="not_message_ticker">Du hast eine neue Nachricht</string>
+    <string name="not_follower_title">Neuer Follower</string>
+    <string name="not_follower_ticker">Du hast einen neuen Follower</string>
+    <string name="not_follower_content">folgt Dir!</string>
 
 
     <!--Error-->
-    <string name="unable_to_fetch_image">Unable to fetch image&#8230;</string>
-    <string name="unable_to_save_file">Unable to save file&#8230;</string>
-    <string name="unable_to_send_location_message">Unable to send location message&#8230;</string>
-    <string name="unable_to_send_image_message">Unable to send image message&#8230;</string>
-    <string name="unable_to_send_message">unable to send message&#8230;</string>
-    <string name="file_read_permission_not_granted">Read external storage permission not granted</string>
+    <string name="unable_to_fetch_image">Laden des Bilds nicht möglich&#8230;</string>
+    <string name="unable_to_save_file">Speichern der Datei nicht möglich&#8230;</string>
+    <string name="unable_to_send_location_message">Senden des Standorts nicht möglich&#8230;</string>
+    <string name="unable_to_send_image_message">Senden der Bilddatei nicht möglich&#8230;</string>
+    <string name="unable_to_send_message">Senden der Nachricht nicht möglich&#8230;</string>
+    <string name="file_read_permission_not_granted">Externe Schreibberechtigungen nicht erteilt</string>
 
     <!--State-->
-    <string name="sending">Sending&#8230;</string>
-    <string name="not_messages_summary">%d unread messages</string>
-    <string name="unable_to_catch_image">Unable to catch image</string>
+    <string name="sending">Senden&#8230;</string>
+    <string name="not_messages_summary">%d ungelesene Nachrichten</string>
+    <string name="unable_to_catch_image">Empfangen des Bilds nicht möglich</string>
     <string name="status">Status</string>
-    <string name="location_hint">Location</string>
+    <string name="location_hint">Ort</string>
     <string name="name_hint">Name</string>
-    <string name="phone_number_hint">Phone Number</string>
+    <string name="phone_number_hint">Telefonnummer</string>
     <string name="email_hint">Email</string>
 
-    <string name="availability">Availability</string>
+    <string name="availability">Verfügbarkeit</string>
     <string name="details">Details</string>
-    <string name="country">Country</string>
-    <string name="dateOfBirth">Date of birth</string>
-    <string name="follows">Follows</string>
-    <string name="followed">Followed</string>
-    <string name="block">Block</string>
-    <string name="blocked">Blocked</string>
+    <string name="country">Land</string>
+    <string name="dateOfBirth">Geburtsdatum</string>
+    <string name="follows">Follower</string>
+    <string name="followed">Folge</string>
+    <string name="block">Blocken</string>
+    <string name="blocked">Geblockt</string>
     <string name="unblock">Unblock</string>
-    <string name="user_blocked">User blocked</string>
-    <string name="user_unblocked">User unblocked</string>
-    <string name="user_deleted">User deleted</string>
-    <string name="user_entity_id_not_set">User Entity ID not set</string>
-    <string name="typing">Typing...</string>
-    <string name="recording">Recording</string>
+    <string name="user_blocked">Benutzer blocked</string>
+    <string name="user_unblocked">Benutzer unblocked</string>
+    <string name="user_deleted">Benutzer gelöscht</string>
+    <string name="user_entity_id_not_set">User Entity ID nicht eingestellt</string>
+    <string name="typing">Tippt...</string>
+    <string name="recording">Aufnahme</string>
 
-    <string name="male">Male</string>
-    <string name="female">Female</string>
-    <string name="action_edit">Edit</string>
-    <string name="chat_sdk_edit_profile_select_country">Select Country</string>
-    <string name="chat_sdk_edit_profile_pick_birth_date">Select date of birth</string>
+    <string name="male">Männlich</string>
+    <string name="female">Weiblich</string>
+    <string name="action_edit">Bearbeiten</string>
+    <string name="chat_sdk_edit_profile_select_country">Wähle Land</string>
+    <string name="chat_sdk_edit_profile_pick_birth_date">Wähle Geburtsdatum</string>
     <string name="app_info">App Info</string>
-    <string name="unable_to_open_app_in_settings">Unable to open app in settings</string>
+    <string name="unable_to_open_app_in_settings">Öffnen der Einstellungen nicht möglich</string>
 
-    <string name="select_country">Select Country</string>
+    <string name="select_country">Wähle Land</string>
 
-    <string name="availability_unavailable">Unavailable</string>
-    <string name="availability_available">Available</string>
-    <string name="availability_away">Away</string>
-    <string name="availability_busy">Busy</string>
-    <string name="availability_extended_away">Extended Away</string>
+    <string name="availability_unavailable">Nicht Verfügbar</string>
+    <string name="availability_available">Verfügbar</string>
+    <string name="availability_away">AFK</string>
+    <string name="availability_busy">Beschäftigt</string>
+    <string name="availability_extended_away">Länger AFK</string>
 
     <!--Tabs-->
-    <string name="conversations">Conversations</string>
-    <string name="chat_rooms">Chat Rooms</string>
-    <string name="contacts">Contacts</string>
-    <string name="profile">Profile</string>
+    <string name="conversations">Unterhaltungen</string>
+    <string name="chat_rooms">Chaträume</string>
+    <string name="contacts">Kontakte</string>
+    <string name="profile">Profil</string>
 
     <string-array name="availability_states">
-        <item>Available</item>
-        <item>Away</item>
-        <item>Extended Away</item>
-        <item>Busy</item>
+        <item>Verfügbar</item>
+        <item>AFK</item>
+        <item>Länger AFK</item>
+        <item>Beschäftigt</item>
     </string-array>
 
 </resources>
